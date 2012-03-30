@@ -1,0 +1,8 @@
+Roman Calculator
+
+Desafio proposto pelo 1° Dojo PHPMS 2012.
+
+* Executa operações aritiméticas utilizando números romanos.
+* Os testes devem ser executados utilizando o PHPUnit
+
+
